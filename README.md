@@ -1,13 +1,14 @@
 # sector-shock-io-demo-
 # Sector shock – simple IO-style demo in R
 This small project is a simple, IO-style example showing how a negative shock in one sector can affect other sectors through input links. It is designed as a learning and demonstration exercise, not a production model.
+
 Policy question
 If demand or imports for one key sector fall, which other sectors are most exposed through their input links?
 Data
 
-Tiny, synthetic input–output table for a few example sectors (e.g. Mining, Manufacturing, Services, Agriculture).
+Tiny, synthetic input–output table for a few example sectors
 
-All data is made up and for demonstration only – no DFAT, APS or confidential information is used.
+All data is made up and for demonstration only 
 
 Method 
 Represent a simple input–output table as a matrix of input shares between sectors.
